@@ -2,7 +2,7 @@
 
 **` Desenvolvedor Web `**
 
-Me chamdo Gabriel, tenho 25 anos e sou natural de Eunápolis na Bahia. Concluí o ensino médio no Colégio Estadual Armando Ribeiro Carneiro. Atualmente, estou cursando Analise e Desenvolvimento de Sistema no IFBA Campus Eunápolis - BA. 
+Me chamo Gabriel, tenho 25 anos e sou natural de Eunápolis na Bahia. Concluí o ensino médio no Colégio Estadual Armando Ribeiro Carneiro. Atualmente, estou cursando Analise e Desenvolvimento de Sistema no IFBA Campus Eunápolis - BA. 
 
 ### 🤖 Linguagens e Tecnologias
 
